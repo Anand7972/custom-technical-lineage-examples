@@ -4,7 +4,7 @@ This repository contains examples and helper functions to help you develop your 
 The dependencies are collected in the `requirements.txt` file and can be installed using `pip install -r requirements.txt`.
 
 ## Convert single-file definition files to the new batch definition format
-
+adada
 Usage:
 ```python3 -m tools.translate_to_batch_format <source_directory> <target_directory> [--migrate_source_code]```
 
